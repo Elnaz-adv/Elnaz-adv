@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 <h3 align="center">Hi, here is elnaz.I’m a german Iranian software developer, enjoy exchanging my thoughts and try to get a better person in my life with doing meaningful projects</h3>
 
-- 🌱 I’m currently learning **machine learning to integrate it in my projects**
+🌱 I’m currently learning **machine learning to integrate it in my projects**
 
 - 📝 I regularly write articles on [https://learnwithelnaz.com](https://learnwithelnaz.com)
 
